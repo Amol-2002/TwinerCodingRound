@@ -1,5 +1,3 @@
-
-
 package com.example.codinground.api
 
 import retrofit2.Retrofit
